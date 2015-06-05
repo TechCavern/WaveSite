@@ -1,2 +1,2 @@
-DWTFPL License
+MIT License
 ==============
