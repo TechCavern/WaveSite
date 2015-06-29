@@ -7,11 +7,11 @@
 
 <dom-module id="header-panel">
     <template>
-        <header>
-        <paper-drawer-panel force-narrow="true">
+        <paper-drawer-panel>
             <paper-header-panel drawer>
                 <paper-toolbar>
-                    <div>Menu</div>
+                    <div>                    <a href="http://www.techcavern.com"><img src="../logo_v2.png" alt="TechCavern" height="40" width="160"></a>
+                    </div>
                 </paper-toolbar>
                 <paper-item>Projects</paper-item>
                 <paper-item>Chat With Us!</paper-item>
@@ -20,12 +20,10 @@
             <paper-header-panel main>
                 <paper-toolbar>
                     <paper-icon-button icon="menu" paper-drawer-toggle></paper-icon-button>
-                    <a href="http://www.techcavern.com"><img src="../logo_v2.png" alt="TechCavern" height="40" width="160"></a>
                 </paper-toolbar>
                 <div></div>
             </paper-header-panel>
         </paper-drawer-panel>
-        </header>
     </template>
     <script>
         Polymer({
