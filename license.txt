@@ -1,4 +1,4 @@
-The MIT License (MIT) - DOES NOT INCLUDE Base.html & Libraries
+The MIT License (MIT) - DOES NOT INCLUDE theme.html & bower components
 
 Copyright (c) 2015 TechCavern
 
