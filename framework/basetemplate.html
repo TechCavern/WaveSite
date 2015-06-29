@@ -1,11 +1,13 @@
-<link rel="import" href="../framework/imports.html">
-<link rel="import" href="../bower_components/paper-drawer-panel/paper-drawer-panel.html">
+<link rel="import" href="../bower_components/polymer/polymer.html">
+<script src="../bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
+<link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../bower_components/paper-styles/paper-styles.html">
+<link rel="import" href="../bower_components/paper-item/paper-item.html"><link rel="import" href="../bower_components/paper-drawer-panel/paper-drawer-panel.html">
 <link rel="import" href="../bower_components/paper-header-panel/paper-header-panel.html">
 <link rel="import" href="../bower_components/paper-toolbar/paper-toolbar.html">
+<link rel="import" href="theme.html">
 
-<link rel="import" href="../framework/theme.html">
-
-<dom-module id="header-panel">
+<dom-module id="basetemplate">
     <template>
         <paper-drawer-panel>
             <paper-header-panel drawer>
@@ -21,13 +23,14 @@
                 <paper-toolbar>
                     <paper-icon-button icon="menu" paper-drawer-toggle></paper-icon-button>
                 </paper-toolbar>
-                <div></div>
+                <content></content>
+                <div align="center">©2015 TechCavern</div>
             </paper-header-panel>
         </paper-drawer-panel>
     </template>
     <script>
         Polymer({
-            is: 'header-panel'
+            is: 'basetemplate'
         });
     </script>
 </dom-module>
