@@ -2,7 +2,7 @@
 <link rel="import" href="../bower_components/paper-toolbar/paper-toolbar.html">
 <link rel="import" href="../framework/theme.html">
 
-<dom-module id="toolbar">
+<dom-module id="header-panel">
     <style>
         paper-toolbar + paper-toolbar {
             margin-top: 20px;
@@ -16,28 +16,11 @@
         <paper-icon-button icon="add">+</paper-icon-button>
     </paper-toolbar>
     </template>
+    <script>
+        Polymer({
+            is: 'header-panel'
+        });
+    </script>
 </dom-module>
 
 
-<script>
-
-    (function() {
-
-        'use strict';
-
-        Polymer({
-
-            is: 'toolbar',
-
-            hostAttributes: {
-                'role': 'toolbar'
-            },
-
-            properties: {
-
-            }
-        });
-
-    }());
-
-</script>
