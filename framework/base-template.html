@@ -4,6 +4,7 @@
 <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
 <link rel="import" href="../bower_components/paper-menu/paper-menu.html">
 <link rel="import" href="../bower_components/paper-item/paper-item.html">
+<link rel="import" href="../bower_components/paper-item/paper-item-body.html">
 <link rel="import" href="../bower_components/iron-icons/iron-icons.html">
 <link rel="import" href="../bower_components/paper-drawer-panel/paper-drawer-panel.html">
 <link rel="import" href="../bower_components/paper-header-panel/paper-header-panel.html">
@@ -20,11 +21,11 @@
                                                                  width="160"></a>
                     </div>
                 </paper-toolbar>
-            <paper-menu class="list">
-                <paper-item>Projects</paper-item>
-                <paper-item>Chat With Us!</paper-item>
-                <paper-item>About Us</paper-item>
-            </paper-menu>
+                <paper-menu>
+                <paper-item role="menuitem"><paper-item-body><a style="text-decoration: none" href="../subpages/projects.html">Projects</a></paper-item-body></paper-item>
+                    <paper-item role="menuitem"><paper-item-body><a style="text-decoration: none" href="../subpages/chat.html">Chat With Us!</a></paper-item-body></paper-item>
+                    <paper-item role="menuitem"><paper-item-body><a style="text-decoration: none" href="../subpages/about.html">About Us</a></paper-item-body></paper-item>
+                </paper-menu>
             </paper-header-panel>
             <paper-header-panel main>
                 <paper-toolbar>
