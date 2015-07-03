@@ -1,6 +1,6 @@
 {
   "name": "TechCavern",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "JZTech101 <jzhou@techcavern.com>"
   ],
@@ -17,6 +17,7 @@
     "paper-drawer-panel": "PolymerElements/paper-drawer-panel",
     "paper-item": "PolymerElements/paper-item",
     "paper-menu": "PolymerElements/paper-menu",
-    "paper-material": "PolymerElements/paper-material"
+    "paper-material": "PolymerElements/paper-material",
+    "paper-progress": "PolymerElements/paper-progress#~1.0.0"
   }
 }
