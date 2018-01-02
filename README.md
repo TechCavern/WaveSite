@@ -1,7 +1,7 @@
 WaveSite [![Packagist](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/TechCavern/WaveSite/blob/master/license.md)
 ==============
 
-TechCavern Website (Built with Polymer)
+TechCavern Website (Built with Polymer) -- Up for Full Rewrite
 
 Development
 ============
