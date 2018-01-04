@@ -1,4 +1,4 @@
-<?php readfile('template/header.php'); ?>
+<?php readfile('../template/header.php'); ?>
     <div class="container">
 
     <main role="main">
@@ -19,4 +19,4 @@
     </main>
     </div>
 
-<?php readfile('template/footer.php'); ?>
+<?php readfile('../template/footer.php'); ?>
