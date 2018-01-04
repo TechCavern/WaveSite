@@ -1,4 +1,4 @@
-<?php include('techcavern.info/template/header.php'); ?>
+<?php readfile('template/header.php'); ?>
     <div class="container">
 
     <main role="main">
@@ -23,4 +23,4 @@
     </main>
     </div>
 
-<?php include('techcavern.info/template/footer.php'); ?>
+<?php readfile('template/footer.php'); ?>
