@@ -1,0 +1,23 @@
+body {
+  padding-top: 3.5rem;
+}
+.bg-tc{
+  background-color: darkslategray;
+}
+.bg-tc2{
+  background-color: #e9ecef;
+  margin-left:4.05%;
+  margin-right:4.05%;
+  padding-top:2%;
+  padding-bottom:1%;
+  margin-bottom: 2%;
+  border-radius:0.3em;
+}
+.txt-tc{
+  text-align: center;
+}
+.display-tc{
+  font-size: 2.8rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
