@@ -3,12 +3,12 @@
 
     <main role="main">
 
-      <div class="jumbotron txt-tc">
-        <iframe src="http://webchat.freenode.net?channels=%23techcavern"></iframe>
+      <div class="jumbotron txt-tc contactirc">
+        <iframe src="https://webchat.freenode.net?channels=%23techcavern" width=100% height=500px></iframe>
         </div>
 
         <div class="row txt-tc">
-          <div class="col-md-10 bg-tc2">
+          <div class="col-md-11 bg-tc2">
             <h2>Or by email.</h2>
             <p> Our email is contact [at] techcavern.info </p>
           </div>
