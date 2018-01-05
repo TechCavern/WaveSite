@@ -1,4 +1,6 @@
 <?php readfile('../template/header.php'); ?>
+<?php readfile('../template/analytics.php'); ?>  
+
     <div class="container">
 
     <main role="main">

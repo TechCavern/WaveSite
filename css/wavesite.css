@@ -2,7 +2,10 @@ body {
   padding-top: 3.5rem;
 }
 .bg-tc{
-  background-color: darkslategray;
+  background-color: black;
+}
+.txt-white{
+color: #ffffff;
 }
 .bg-tc2{
   background-color: #e9ecef;
