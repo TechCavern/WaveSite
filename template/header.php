@@ -9,6 +9,8 @@
     <title>TechCavern</title>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
 
 
     <link href="https://techcavern.info/css/wavesite.css" rel="stylesheet">
@@ -18,7 +20,7 @@
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-tc">
       <div class="container">
 
-      <a class="navbar-brand" href="http://techcavern.info">TechCavern</a>
+      <a class="navbar-brand" href="http://techcavern.info"><i class="fa fa-globe" aria-hidden="true"></i> TechCavern</a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="navbar-toggler-icon"></span>
       </button>

@@ -9,7 +9,7 @@
 
         <div class="row txt-tc">
           <div class="col-md-11 bg-tc2">
-            <h2>Or by email.</h2>
+            <h2><i class="fa fa-envelope" aria-hidden="true"></i> Or by Email.</h2>
             <p> Our email is contact [at] techcavern.info </p>
           </div>
 
