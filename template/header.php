@@ -19,7 +19,7 @@
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-tc">
       <div class="container">
 
-      <a class="navbar-brand" href="http://techcavern.info"><i class="fa fa-globe" aria-hidden="true"></i> TechCavern</a>
+      <a class="navbar-brand" href="https://techcavern.info"><i class="fa fa-globe" aria-hidden="true"></i> TechCavern</a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="navbar-toggler-icon"></span>
       </button>

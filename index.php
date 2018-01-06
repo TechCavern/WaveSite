@@ -14,7 +14,7 @@
           <div class="col-md-5 bg-tc2">
             <h2><i class="fa fa-list-alt" aria-hidden="true"></i> Check Out Our Projects!</h2>
             <p> All of our Projects are MIT licensed for your use and abuse! :)</p>
-            <p><a class="btn btn-secondary" href="#" role="button" aria-pressed="true"> View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="https://github.com/TechCavern" role="button" aria-pressed="true"> View details &raquo;</a></p>
           </div>
           <div class="col-md-5 bg-tc2">
             <h2><i class="fa fa-weixin" aria-hidden="true"></i> Chat With Us!</h2>
