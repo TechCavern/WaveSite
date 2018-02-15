@@ -1,6 +1,6 @@
 The MIT License (MIT) - DOES NOT INCLUDE theme.html nor resources
 
-Copyright (c) 2017 TechCavern
+Copyright (c) 2014 TechCavern
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
